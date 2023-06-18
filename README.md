@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sifytul</h1>
 <h3 align="center">A dedicated fullstack Web App developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, Nextjs13 and Redux** - 💬 Ask and
-discuss about **React.js, Next.js, Express.js, Node.js, MongoDb** - 📫 How to
-reach me **sifytul09@gmail.com**
+- 🌱 I’m currently learning **TypeScript, Nextjs13 and Redux**
+
+- 💬 Ask and discuss about **React.js, Next.js, Express.js, Node.js, MongoDb**
+
+- 📫 How to reach me **sifytul09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
