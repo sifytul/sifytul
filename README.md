@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sifytul</h1>
 <h3 align="center">A dedicated fullstack Web App developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, Nextjs13 and Redux**
+- 🌱 I’m currently learning **Nestjs and Postgres DB**
 
-- 💬 Ask and discuss about **React.js, Next.js, Express.js, Node.js, MongoDb**
+- 💬 Ask and discuss about **React.js, Next.js, Express.js, Nestjs Node.js, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **sifytul09@gmail.com**
 
