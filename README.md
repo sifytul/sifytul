@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sifytul</h1>
-<h3 align="center">A dedicated fullstack Web App developer</h3>
+<h3 align="center">A Backend developer with DevOps expertise </h3>
 
-- 🌱 I’m currently learning **Nestjs and Postgres DB**
+- 🌱 I’m currently learning **Observability and AI assisted development**
 
-- 💬 Ask and discuss about **React.js, Next.js, Express.js, Nestjs Node.js, MongoDB, PostgreSQL**
+- 💬 Ask and discuss about **Docker, Kubernetes, Go, Python, AI, Express.js, Nestjs Node.js, MongoDB, PostgreSQL**
 
 - 📫 How to reach me **sifytul09@gmail.com**
 
